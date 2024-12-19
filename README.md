@@ -25,6 +25,6 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 <img src='https://github.com/user-attachments/assets/9692a2f3-ae7d-4468-8fba-ba8e2f33845d' width='200'>
 
 ### Chat screen
-<img src='https://github.com/user-attachments/assets/9a92059b-e148-45fc-bc36-a5a7212404e2' width='200'>
-<img src='https://github.com/user-attachments/assets/2e9079e5-f1f7-439f-887d-cf1db20c9460' width='200'>
 <img src='https://github.com/user-attachments/assets/b45c532f-e6b1-484e-9e70-dcbed95ab330' width='200'>
+<img src='https://github.com/user-attachments/assets/2e9079e5-f1f7-439f-887d-cf1db20c9460' width='200'>
+<img src='https://github.com/user-attachments/assets/9a92059b-e148-45fc-bc36-a5a7212404e2' width='200'>
